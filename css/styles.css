@@ -17,7 +17,7 @@ ul,ol{
 
 .logo{
 color: #4D5AE5;
-    font-family: Raleway;
+    font-family: Raleway sans-serif;
     font-size: 18px;
     font-weight: 700;       
     line-height: 1.7em;
@@ -44,7 +44,7 @@ color: #4D5AE5;
    color: #404bbf;
 }
 
-.header-nav :focus{
+.header-nav:focus{
     color: #404bbf; 
 }
 
@@ -55,9 +55,10 @@ color: #4D5AE5;
         line-height: 1.5em;
         letter-spacing: 0.32px;
         text-decoration: none;
+        font-style: normal;
 }
 
-.address-title :hover{
+.address-title:hover{
     color: #404bbf;
 }
 
@@ -68,9 +69,10 @@ color: #434455;
     line-height: 1.5em;
     letter-spacing: 0.32px;
     text-decoration: none;
+    font-style: normal;
 }
 
-.address-link :hover{
+.address-link:hover{
     color: #404bbf;
 }
 
@@ -96,7 +98,7 @@ color: #FFF;
     letter-spacing: 0.64px;
  }
 
- .section-button :hover{
+ .section-button:hover{
     background: #4D5AE5;
  }
 
