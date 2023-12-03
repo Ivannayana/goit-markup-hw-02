@@ -94,22 +94,23 @@ color: #4D5AE5;
  }
 
  .advantages {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
  }
 
  .list{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
  }
 
  .title {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
  }
 
  .title-name {
     color: #2E2F42;
+        background-color: #FFFFFF;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.2em;
+        line-height: 1.11em;
         letter-spacing: 0.4px;
  }
 
