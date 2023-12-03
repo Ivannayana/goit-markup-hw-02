@@ -123,9 +123,17 @@ color: #4D5AE5;
         letter-spacing: 0.32px;
  }
 
+.our {
+    background-color: #F4F4FD;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
  .page-title {
     color: #2E2F42;
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
@@ -145,6 +153,7 @@ background-color: #FFFFFF;
 
  .page-title-text {
 color: #434455;
+background-color: #FFFFFF;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5em;
