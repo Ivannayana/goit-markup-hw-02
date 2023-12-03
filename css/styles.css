@@ -58,7 +58,9 @@ color: #4D5AE5;
         font-style: normal;
 }
 
-.address-title:hover,.header-nav:focus{
+.address-title:hover,
+.address-title:focus,
+.address-title:active{
     color: #404bbf;
 }
 
@@ -72,7 +74,9 @@ color: #434455;
     font-style: normal;
 }
 
-.address-link:hover,.header-nav:focus{
+.address-link:hover,
+.address-link:focus,
+.address-link:active{
     color: #404bbf;
 }
 
