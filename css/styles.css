@@ -12,13 +12,11 @@ ul,ol{
 
 /* Header logo */
 .header{
-    font-style: normal;
     background-color: #FFFFFF;
 }
 
 .logo{
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;       
     line-height: 1.7em;
