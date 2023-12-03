@@ -125,16 +125,18 @@ color: #4D5AE5;
 
  .page-title {
     color: #2E2F42;
+    background-color: #F4F4FD;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
-        line-height: 1.1em;
+        line-height: 1.11em;
         letter-spacing: 0.72px;
         text-transform: capitalize;
  }
 
  .page-title-name {
 color:#2E2F42;
+background-color: #FFFFFF;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2em;
