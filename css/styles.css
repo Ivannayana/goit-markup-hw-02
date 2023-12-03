@@ -1,6 +1,6 @@
 /* Body */
 body{
-    font-family: Roboto, sans-serif ;
+    font-family: Roboto, sans-serif;
     color: #434455;
     font-style: normal;
     background-color: #FFFFFF; 
@@ -16,7 +16,8 @@ ul,ol{
 }
 
 .logo{
-    color: var(--IRIS, #4D5AE5);
+color: #4D5AE5;
+    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;       
     line-height: 1.7em;
